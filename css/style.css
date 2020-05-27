@@ -739,7 +739,7 @@ ul.w3l-about-list li {
 
 @media (min-width: 576px) and (max-width: 767.98px) { 
     .stats{
-        background: url(../images/i3.JPG) no-repeat center right;
+        background: url(../images/i3.jpg) no-repeat center right;
        background-size: cover;
        -webkit-background-size: cover;
        -moz-background-size: cover;
@@ -753,7 +753,7 @@ ul.w3l-about-list li {
 
 @media (min-width: 768px) and (max-width: 991.98px) { 
     .stats{
-        background: url(../images/i3.JPG) no-repeat center right;
+        background: url(../images/i3.jpg) no-repeat center right;
        background-size: cover;
        -webkit-background-size: cover;
        -moz-background-size: cover;
@@ -767,7 +767,7 @@ ul.w3l-about-list li {
 
 @media (min-width: 992px) and (max-width: 1199.98px) { 
     .stats{
-        background: url(../images/i3.JPG) no-repeat center right;
+        background: url(../images/i3.jpg) no-repeat center right;
        background-size: cover;
        -webkit-background-size: cover;
        -moz-background-size: cover;
@@ -780,7 +780,7 @@ ul.w3l-about-list li {
 
 @media (min-width: 1200px) { 
     .stats{
-        background: url(../images/i3.JPG) no-repeat 0px 0px;
+        background: url(../images/i3.jpg) no-repeat 0px 0px;
        background-size: cover;
        -webkit-background-size: cover;
        -moz-background-size: cover;
