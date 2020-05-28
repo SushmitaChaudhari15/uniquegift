@@ -307,6 +307,40 @@ ul {
 ul.navbar-nav {
     padding: 0px 0;
 }
+
+@media (max-width: 575.98px) { 
+    .logo-i{
+        height: 40px;
+    }
+ }
+
+
+@media (min-width: 576px) and (max-width: 767.98px) { 
+    .logo-i {
+        height: 60px;
+    }
+ }
+
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+    .logo-i {
+        height: 60px;
+    }
+  }
+
+
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+    .logo-i {
+        height: 60px;
+    }
+ }
+
+
+@media (min-width: 1200px) { 
+    .logo-i {
+        height: 60px;
+    }
+ }
 /*-- nav --*/
 h1 a.navbar-brand {
     padding-top: 0px;
@@ -363,7 +397,7 @@ nav.navbar.navbar-toggleable-md.navbar-light {
 
 @media (max-width: 575.98px) { 
     .banner2{
-        background: url(../images/IMG_1356.JPG) no-repeat center center;
+        background: url(../images/IMG_1356.jpg) no-repeat center center;
         background-size: cover;
         -webkit-background-size: cover;
         -moz-background-size: cover;
@@ -374,7 +408,7 @@ nav.navbar.navbar-toggleable-md.navbar-light {
  }
  @media (min-width: 576px) and (max-width: 767.98px) { 
     .banner2{
-        background: url(../images/IMG_1354.JPG) no-repeat center center;
+        background: url(../images/IMG_1354.jpg) no-repeat center center;
         background-size: cover;
         -webkit-background-size: cover;
         -moz-background-size: cover;
@@ -387,7 +421,7 @@ nav.navbar.navbar-toggleable-md.navbar-light {
 
 @media (min-width: 768px) and (max-width: 991.98px) { 
     .banner2{
-        background: url(../images/IMG_1354.JPG) no-repeat center center;
+        background: url(../images/IMG_1354.jpg) no-repeat center center;
 
         background-size: cover;
    -webkit-background-size: cover;
@@ -400,7 +434,7 @@ nav.navbar.navbar-toggleable-md.navbar-light {
 
 @media (min-width: 992px) and (max-width: 1199.98px) { 
     .banner2{
-        background: url(../images/IMG_1354.JPG) no-repeat center center;
+        background: url(../images/IMG_1354.jpg) no-repeat center center;
         background-size: cover;
         -webkit-background-size: cover;
         -moz-background-size: cover;
@@ -545,7 +579,7 @@ nav.navbar.navbar-toggleable-md.navbar-light {
     font-size: 1.8em;
     font-weight: bold;
     font-style: italic;
-    margin:0;
+    margin:0 0 0 -80px;
 }
 
 .about-subgrid span {
